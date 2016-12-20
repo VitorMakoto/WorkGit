@@ -1,0 +1,34 @@
+// Sudo code 2
+
+Sudo2 Class definitiion open
+
+Variable def sudo2V1
+Variable def sudo2V2
+
+func methodSudo2A() {
+	return sudo2V1 * sudo2V2
+}
+
+func methodSudo2B() {
+	if sudo2V2 == 0 {
+		return error
+	}
+	return sudo1V1 / sudo1V2
+}
+
+func methodSudo2C() {
+	return sudo1V1 * sudo1V1 + sudo1V2 * sudo1V2
+}
+
+func methodSudo2D() {
+	if sudo2V2 == 0 {
+		return error
+	}
+	if sudo2V2 == 0 {
+		return error
+	}
+
+	return sudo1V1 * sudo1V1 / sudo2V2 + sudo1V2 * sudo1V2 / sudo2V1
+}
+
+Sudo2 Class definitiion close

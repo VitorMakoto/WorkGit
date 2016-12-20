@@ -1,0 +1,17 @@
+// Sudo code 1
+
+Sudo1 Class definitiion open
+
+Variable def sudo1V1
+Variable def sudo1V2
+
+func methodSudoA() {
+	return sudo1V1 + sudo1V2
+}
+
+func methodSudoB() {
+	return sudo1V1 - sudo1V2
+}
+
+
+Sudo1 Class definitiion close
