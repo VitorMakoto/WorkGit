@@ -6,11 +6,11 @@ Variable def sudo1V1
 Variable def sudo1V2
 
 func methodSudoA() {
-	return sudo1V1 + sudo1V2
+    return sudo1V1 + sudo1V2
 }
 
 func methodSudoB() {
-	return sudo1V1 - sudo1V2
+    return sudo1V1 - sudo1V2
 }
 
 
